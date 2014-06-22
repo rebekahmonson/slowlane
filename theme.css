@@ -23,8 +23,10 @@ h2, h3{
 }
 #jumboleft h1{
 	padding: 10px 20px;
+	font-size: 150%;
 	color: #fff;
 	text-transform: uppercase;
+	text-align: center;
 }
 .navbar-brand{
 	text-transform: uppercase;
@@ -41,13 +43,7 @@ h2, h3{
 
 /**************LAYOUT*****************/
 /*_____NAV________*/
-.navbar .brand {
-	max-height: 100px;
-	overflow: visible;
-	padding-top: 0;
-	padding-bottom: 0;
-}
-.navbar a.navbar-brand {padding: 9px 15px 8px; }
+
 
 /*______JUMBOTRON_____*/
 #jumbo{
