@@ -1,11 +1,16 @@
 /**************TYPOGRAPHY*************/
 .nav a{
 	text-transform: uppercase;
+	color: #2673b3;
 }
 #jumboleft h1{
 	padding: 10px 20px;
 	color: #fff;
 	text-transform: uppercase;
+}
+.navbar-brand{
+	text-transform: uppercase;
+	color: #2673b3;
 }
 
 /**************LAYOUT*****************/
