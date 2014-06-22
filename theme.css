@@ -30,6 +30,13 @@ h2, h3{
 	text-transform: uppercase;
 	text-align: center;
 }
+#jumboleft p{
+	padding: 10px 20px;
+	font-size: 200%;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+}
 .navbar-brand{
 	text-transform: uppercase;
 	color: #2673b3;
