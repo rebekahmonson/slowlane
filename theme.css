@@ -41,12 +41,13 @@ h2, h3{
 
 /**************LAYOUT*****************/
 /*_____NAV________*/
- .navbar .brand {
- position: fixed;    
- overflow: visible;
- padding-left: 0;    
- padding-top: 0;
- }
+.navbar .brand {
+	max-height: 100px;
+	overflow: visible;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.navbar a.navbar-brand {padding: 9px 15px 8px; }
 
 /*______JUMBOTRON_____*/
 #jumbo{
