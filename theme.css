@@ -1,6 +1,8 @@
 /**************TYPOGRAPHY*************/
 .nav a{
 	text-transform: uppercase;
+}
+.nav{
 	color: #2673b3;
 }
 #jumboleft h1{
@@ -16,6 +18,9 @@
 	text-transform: uppercase;
 	color: #2673b3;
 	text-align:right;	
+}
+#social a.hover{
+	opacity:0.8;
 }
 
 /**************LAYOUT*****************/
