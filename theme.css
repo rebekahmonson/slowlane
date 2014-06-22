@@ -106,13 +106,14 @@ body {
 #jumboleft h1{
 	color: #fff;
 	font-size: 250%;
+	padding:0 10px;
 	text-transform: uppercase;
 	text-align: center;
 }
 #jumboleft p{
 	padding: 10px;
 	font-family: 'Roboto', sans-serif;
-	font-weight: 300;
+	font-weight: 700;
 	font-size: 120%;
 	color: #fff;
 	text-align: center;
