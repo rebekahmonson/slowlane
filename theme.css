@@ -9,7 +9,6 @@ h2, h3{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
 	color: #d9230f;
-	text-transform: uppercase;
 }
 
 .small{
@@ -91,8 +90,8 @@ body {
 	width: 100%;
 	height: 100%;
 }
-.btn-info{
-  background-color: #2673b3;
+.btn-info a{
+  background-color: #2673b3 !important;
 }
 .nopadding {
    padding: 0 !important;
