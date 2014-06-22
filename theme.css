@@ -20,8 +20,10 @@ h2, h3{
 }
 .nav .navbar-nav a{
 	color: #2673b3;
-	margin-top: 10px;	
 }
+.nav .navbar-nav li{
+	margin-top: 10px;
+	}
 #jumboleft h1{
 	padding: 10px 20px;
 	font-size: 300%;
