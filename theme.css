@@ -5,6 +5,10 @@ h1, h2, h3{
 	color: #2673b3;
 }
 
+.small{
+	font-size: 50%;
+}
+
 .nav a{
 	text-transform: uppercase;
 }
