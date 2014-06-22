@@ -23,19 +23,6 @@ h2, h3{
 .nav .navbar-nav a{
 	color: #2673b3;
 }
-#jumboleft h1{
-	padding: 10px 20px;
-	color: #fff;
-	text-transform: uppercase;
-	text-align: center;
-}
-#jumboleft p{
-	padding: 10px 20px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: 300;
-	color: #fff;
-	text-align: center;
-}
 .navbar-brand{
 	text-transform: uppercase;
 	color: #2673b3;
@@ -111,4 +98,40 @@ body {
 }
 .centered{
     text-align:center;
+}
+/*****************MEDIA QUERIES**************/
+
+/* Landscape phones and up */
+@media (min-width: 481px) {
+#jumboleft h1{
+	padding: 10px 20px;
+	color: #fff;
+	font-size: 300%;
+	text-transform: uppercase;
+	text-align: center;
+}
+#jumboleft p{
+	padding: 10px 20px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 150%;
+	color: #fff;
+	text-align: center;
+}
+}
+
+/* Landscape phones and smaller */
+@media (max-width: 480px) {
+#jumboleft h1{
+	padding: 10px 20px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+}
+#jumboleft p{
+	padding: 10px 20px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	color: #fff;
+	text-align: center;
 }
