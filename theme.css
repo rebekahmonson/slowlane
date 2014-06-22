@@ -25,8 +25,8 @@ h1, h2, h3{
 	color: #2673b3;
 	text-align:right;	
 }
-#social a.hover{
-	opacity:0.8;
+#social a{
+	color: #2673b3;
 }
 
 /**************LAYOUT*****************/
