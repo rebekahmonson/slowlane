@@ -40,11 +40,13 @@ h2, h3{
 }
 
 /**************LAYOUT*****************/
-/*_____PRE-NAV_____*/
-
-
 /*_____NAV________*/
-
+ .navbar .brand {
+ position: fixed;    
+ overflow: visible;
+ padding-left: 0;    
+ padding-top: 0;
+ }
 
 /*______JUMBOTRON_____*/
 #jumbo{
