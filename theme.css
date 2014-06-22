@@ -43,6 +43,9 @@ h2, h3{
 #social a{
 	color: #2673b3;
 }
+.fa-square:hover{
+ 	color: #71a9d7;
+}
 
 /**************LAYOUT*****************/
 /*_____NAV________*/
