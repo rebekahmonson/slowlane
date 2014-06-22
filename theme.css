@@ -2,7 +2,7 @@
 .nav a{
 	text-transform: uppercase;
 }
-.nav{
+.nav .navbar-nav{
 	color: #2673b3;
 }
 #jumboleft h1{
