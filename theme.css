@@ -8,7 +8,12 @@
 
 
 /*______JUMBOTRON_____*/
+#jumboleft{
+	background-color: #fe7301;
+}
+#jumboright{
 
+}
 /**************ETC*******************/
 .videoWrapper {
 	position: relative;
