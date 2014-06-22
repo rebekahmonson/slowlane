@@ -8,9 +8,12 @@
 
 
 /*______JUMBOTRON_____*/
-#jumboleft{
+#jumbo{
 	background-color: #fe7301;
 	height: 100%;
+}
+#jumboleft{
+
 }
 #jumboright{
 
