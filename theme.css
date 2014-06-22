@@ -23,7 +23,7 @@
 	text-transform: uppercase;
 }
 #jumboleft a .btn{
-	text-align: center;
+	margin: 0 auto;
 }
 /**************ETC*******************/
 .videoWrapper {
