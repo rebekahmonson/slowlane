@@ -22,6 +22,7 @@ h2, h3{
 .nav .navbar-nav a{
 	padding-top: 25px;
 	color: #2673b3;
+	display: block;
 }
 #jumboleft h1{
 	padding: 10px 20px;
