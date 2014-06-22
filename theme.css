@@ -138,10 +138,7 @@ body {
 	color: #fff;
 	text-align: center;
 }
-.mobile-only {
-        display:block !important;
-    }
- 
-    .desktop-only {
+
+.desktop-only {
         display:none !important;
     }
