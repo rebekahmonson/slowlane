@@ -25,7 +25,6 @@ h2, h3{
 }
 #jumboleft h1{
 	padding: 10px 20px;
-	font-size: 200%;
 	color: #fff;
 	text-transform: uppercase;
 	text-align: center;
@@ -33,6 +32,8 @@ h2, h3{
 #jumboleft p{
 	padding: 10px 20px;
 	font-size: 200%;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
 	color: #fff;
 	text-transform: uppercase;
 	text-align: center;
