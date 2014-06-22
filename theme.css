@@ -1,13 +1,15 @@
 /**************TYPOGRAPHY*************/
 h1{
 	font-family: 'Roboto', sans-serif;
-	font-weight: 700;
+	font-weight: 400;
 	color: #2673b3;
+	text-transform: uppercase;
 }
 h2, h3{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
 	color: #d9230f;
+	text-transform: uppercase;
 }
 
 .small{
