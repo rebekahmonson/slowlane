@@ -21,9 +21,6 @@ h2, h3{
 .nav .navbar-nav a{
 	color: #2673b3;
 }
-.nav .navbar-nav li{
-	margin-top: 10px;
-	}
 #jumboleft h1{
 	padding: 10px 20px;
 	font-size: 300%;
@@ -49,7 +46,9 @@ h2, h3{
 
 /**************LAYOUT*****************/
 /*_____NAV________*/
-
+.navbar-brand{
+	padding-bottom: 10px;
+}
 
 /*______JUMBOTRON_____*/
 #jumbo{
