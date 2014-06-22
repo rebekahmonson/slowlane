@@ -17,12 +17,12 @@ h2, h3{
 
 .nav a{
 	text-transform: uppercase;
-	padding-top: 10px;
+	padding-top: 25px;
+	display: block;
 }
 .nav .navbar-nav a{
-	padding-top: 25px;
 	color: #2673b3;
-	display: block;
+	
 }
 #jumboleft h1{
 	padding: 10px 20px;
