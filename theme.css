@@ -10,9 +10,10 @@
 /*______JUMBOTRON_____*/
 #jumbo{
 	height: 100%;
+	background-color: #fe7301;
 }
 #jumboleft{
-	background-color: #fe7301;
+	background-color: none;
 }
 #jumboright{
 
