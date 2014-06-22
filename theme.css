@@ -10,7 +10,7 @@
 /*______JUMBOTRON_____*/
 #jumbo{
 	height: 100%;
-	background-color: #fe7301;
+	background-image:url('img/snow.png');
 }
 #jumboleft{
 	background-color: none;
