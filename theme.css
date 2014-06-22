@@ -14,7 +14,8 @@
 }
 #social{
 	text-transform: uppercase;
-	color: #2673b3;	
+	color: #2673b3;
+	text-align:right;	
 }
 
 /**************LAYOUT*****************/
