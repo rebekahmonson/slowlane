@@ -17,6 +17,10 @@
 #jumboright{
 
 }
+#jumbo h1{
+	padding: 10px 10px;
+	color: #fff;
+}
 /**************ETC*******************/
 .videoWrapper {
 	position: relative;
