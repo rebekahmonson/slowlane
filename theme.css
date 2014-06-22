@@ -118,6 +118,9 @@ body {
 	color: #fff;
 	text-align: center;
 }
+.desktop-only {
+        display:block !important;
+    }
 }
 
 /* Landscape phones and smaller */
@@ -135,3 +138,10 @@ body {
 	color: #fff;
 	text-align: center;
 }
+.mobile-only {
+        display:block !important;
+    }
+ 
+    .desktop-only {
+        display:none !important;
+    }
