@@ -138,7 +138,9 @@ body {
 	color: #fff;
 	text-align: center;
 }
-
+p{
+	font-size: 110%;
+}
 .desktop-only {
         display:none !important;
     }
